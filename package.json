@@ -1,6 +1,6 @@
 {
   "name": "webrtc-chatserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple chat server using WebRTC",
   "main": "index.js",
   "directories": {
