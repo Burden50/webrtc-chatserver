@@ -1,0 +1,29 @@
+{
+  "name": "webrtc-chatserver",
+  "version": "1.0.0",
+  "description": "A simple chat server using WebRTC",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burden50/webrtc-chatserver.git"
+  },
+  "author": "Robert Burden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Burden50/webrtc-chatserver/issues"
+  },
+  "homepage": "https://github.com/Burden50/webrtc-chatserver#readme"
+}
